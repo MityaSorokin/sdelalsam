@@ -1,4 +1,4 @@
-print("Hello World!---")
-print("Hell o!")
-print("Hello my dear!")
-print("Glad to see ya!")
+print("Hello World!---;")
+print("Hell o!;")
+print("Hello my dear!;")
+print("Glad to see ya!;")
